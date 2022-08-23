@@ -14,7 +14,7 @@ This repository includes resources on visual recognition.
 - [**ECCV 2022**] VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition [[pdf]](https://arxiv.org/pdf/2111.13579.pdf) [[code]](https://github.com/ChangyaoTian/VL-LTR)
 - [**ECCV 2020**] Distribution-Balanced Loss for Multi-label Classification in Long-Tailed Datasets [[pdf]](https://arxiv.org/pdf/2007.09654.pdf) [[code]](https://github.com/wutong16/DistributionBalancedLoss)
 - [**CVPR 2021**] Long-Tailed Multi-Label Visual Recognition by Collaborative Training on Uniform and Re-balanced Samplings [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Long-Tailed_Multi-Label_Visual_Recognition_by_Collaborative_Training_on_Uniform_and_CVPR_2021_paper.pdf)
-- [**Neurips 2020**] Balanced Meta-Softmax for Long-Tailed Visual Recognition [[pdf]](https://proceedings.neurips.cc/paper/2020/file/2ba61cc3a8f44143e1f2f13b2b729ab3-Paper.pdf) [[code]](https://github.com/jiawei-ren/BalancedMetaSoftmax)
+- [**NeurIPS 2020**] Balanced Meta-Softmax for Long-Tailed Visual Recognition [[pdf]](https://proceedings.neurips.cc/paper/2020/file/2ba61cc3a8f44143e1f2f13b2b729ab3-Paper.pdf) [[code]](https://github.com/jiawei-ren/BalancedMetaSoftmax)
 - [**CVPR 2021**] BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_BBN_Bilateral-Branch_Network_With_Cumulative_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf) [[code]](https://github.com/Megvii-Nanjing/BBN)
 - [**CVPR 2022**] Retrieval Augmented Classification for Long-Tail Visual Recognition [[pdf]](https://arxiv.org/pdf/2202.11233) 
 
