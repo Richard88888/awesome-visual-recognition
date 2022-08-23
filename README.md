@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-multi-label-visual-recognition?color=green) 
 ![](https://img.shields.io/badge/PaperNumber-7-brightgreen)
 
-# Awesome-Multi-label-Visual-Recognition
+# Awesome-Visual-Recognition
 This repository includes resources on visual recognition.
 
 ## Multi-label Visual Recognition
@@ -19,6 +19,6 @@ This repository includes resources on visual recognition.
 - [**CVPR 2022**] Retrieval Augmented Classification for Long-Tail Visual Recognition [[pdf]](https://arxiv.org/pdf/2202.11233) 
 
 ## Related Links
-- [[Introduction to Long-Tailed Learning]](https://zhuanlan.zhihu.com/p/501900018)
-- [[CVPR 2021 Related to Multi-label Visual Recognition]](https://zhuanlan.zhihu.com/p/380733018)
-- [[Papers Related to Multi-label Visual Recognition]](https://zhuanlan.zhihu.com/p/407052629)
+- [Introduction to Long-Tailed Learning](https://zhuanlan.zhihu.com/p/501900018)
+- [CVPR 2021 Related to Multi-label Visual Recognition](https://zhuanlan.zhihu.com/p/380733018)
+- [Papers Related to Multi-label Visual Recognition](https://zhuanlan.zhihu.com/p/407052629)
