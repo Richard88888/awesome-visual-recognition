@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-multi-label-visual-recognition?color=green) 
-![](https://img.shields.io/badge/PaperNumber-7-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-8-brightgreen)
 
 # Awesome-Visual-Recognition
 This repository includes resources on visual recognition.
@@ -17,6 +17,7 @@ This repository includes resources on visual recognition.
 - [**NeurIPS 2020**] Balanced Meta-Softmax for Long-Tailed Visual Recognition [[pdf]](https://proceedings.neurips.cc/paper/2020/file/2ba61cc3a8f44143e1f2f13b2b729ab3-Paper.pdf) [[code]](https://github.com/jiawei-ren/BalancedMetaSoftmax)
 - [**CVPR 2021**] BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_BBN_Bilateral-Branch_Network_With_Cumulative_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf) [[code]](https://github.com/Megvii-Nanjing/BBN)
 - [**CVPR 2022**] Retrieval Augmented Classification for Long-Tail Visual Recognition [[pdf]](https://arxiv.org/pdf/2202.11233) 
+- [**CVPR 2021**] Distribution Alignment: A Unified Framework for Long-Tail Visual Recognition [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distribution_Alignment_A_Unified_Framework_for_Long-Tail_Visual_Recognition_CVPR_2021_paper.pdf) [[code]](https://github.com/Megvii-BaseDetection/DisAlign)
 
 ## Related Links
 - [Introduction to Long-Tailed Learning](https://zhuanlan.zhihu.com/p/501900018)
