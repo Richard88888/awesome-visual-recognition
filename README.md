@@ -9,6 +9,7 @@ This repository includes resources on visual recognition.
 
 ## Multi-label Visual Recognition
 - [**CVPR 2019**] Multi-Label Image Recognition with Graph Convolutional Networks [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Multi-Label_Image_Recognition_With_Graph_Convolutional_Networks_CVPR_2019_paper.pdf)
+- [**arXiv 2022**] A Dual Modality Approach For (Zero-Shot) Multi-Label Classification [[pdf]](https://arxiv.org/pdf/2208.09562v1.pdf)
 
 ## Long-tailed Visual Recognition
 - [**ECCV 2022**] VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition [[pdf]](https://arxiv.org/pdf/2111.13579.pdf) [[code]](https://github.com/ChangyaoTian/VL-LTR)
